@@ -3,3 +3,8 @@ bin
 obj
 Backend/_db.sqlite3
 Dyndata
+
+
+# Ignore node_modules
+# since we are using node/npm for out endpoints test
+node_modules
